@@ -8,6 +8,4 @@
 
  <p align="justify">This website serves as an online portfolio to showcase my web presence, resume, story, & featured projects with a Particle.js aligned theme.</p>
 
-![My-Portfolio-Website](https://user-images.githubusercontent.com/97622118/207217600-9fb32404-fa34-4432-bf20-fa6c98615285.jpg)
-![Alt text](MY_website.jpg)
-![Alt text](MY_website.jpg)![Alt text](My-Portfolio-Website.jpg)
+![MY_website](https://user-images.githubusercontent.com/97622118/214282803-94b6341e-8413-4749-98b2-33ff1432c94b.jpg)
