@@ -9,4 +9,4 @@
  
 <p align="justify">This website serves as an online portfolio to showcase my web presence, resume, story, & featured projects as an AI Engineer, Data Engineer, and Data Analyst with a Particle.js aligned theme.</p>
 
-![MY_website](https://github.com/SamuelAytenfsu/SamuelAytenfsu.github.io/blob/main/MY_website.jpg)
+![MY_website](https://github.com/SamuelAytenfsu/SamuelAytenfsu.github.io/blob/main/Mynew_website.png)
